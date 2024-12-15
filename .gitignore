@@ -1,0 +1,27 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files.
+
+## Ignore build output
+bin/
+obj/
+
+## User-specific files
+*.user
+*.rsuser
+*.suo
+*.pdb
+*.cache
+*.log
+*.vs/
+.vscode/
+
+## Auto-generated files
+*.dbmdl
+*.jfm
+
+# Rider IDE files
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
